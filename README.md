@@ -9,14 +9,18 @@ The repository contains the following files:
 **House_Price_Prediction.ipynb:** A Google Colab notebook containing the same code as the Python script. It can be opened and executed directly in Google Colab.
 
 # Usage
-To run the standalone Python script:
 
-Ensure you have Python installed on your system along with the required libraries mentioned in the requirements.txt file.
-Clone this repository to your local machine.
-Run the house_price_prediction.py script.
-To run the Google Colab notebook:
+**To run the standalone Python script:**
 
-Open the House_Price_Prediction.ipynb notebook in Google Colab.
-Follow the instructions provided in the notebook to execute the code cells.
-Dataset
+1. Ensure you have Python installed on your system along with the required libraries mentioned in the requirements.txt file.
+2. Clone this repository to your local machine.
+3. Run the house_price_prediction.py script.
+
+**To run the Google Colab notebook:**
+
+1. Open the House_Price_Prediction.ipynb notebook in Google Colab.
+2. Follow the instructions provided in the notebook to execute the code cells.
+
+
+# Dataset
 The script/notebook utilizes the California housing dataset, which is fetched using scikit-learn's fetch_california_housing() function.
